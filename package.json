@@ -1,0 +1,11 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "Smart assistant command line node app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

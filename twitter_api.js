@@ -7,12 +7,13 @@ const Twitter = require('twitter');
 const client = new Twitter(keys.twitterKeys);
 // Client parameters for retriving data
 let params = {screen_name: 'bdunams'};
+let tweetContent = '';
 
 // Function to get tweets
 getTweets = () => {
-  let tweetContent = '';
-  // Twitter get method to retrieve data
-  client.get('statuses/user_timeline', params).then( (tweets) => {
+  
+  // Twitter get method to retrieve data and return promise
+  return client.get('statuses/user_timeline', params).then( (tweets) => {
    
     // loop through tweets
     tweets.forEach((userTweet)=>{
@@ -20,12 +21,12 @@ getTweets = () => {
                      '\nTweeted at: '+userTweet.created_at+'\n\n';
     })
       
-    console.log(tweetContent);
-    return tweetContent;  
-    
+    // return tweet data to be processed
+    return tweetContent;
+      
   }).catch((error) => {
     console.log(error);
-  });
+  })
   
 }
 

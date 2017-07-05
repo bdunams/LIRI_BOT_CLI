@@ -1,0 +1,84 @@
+[object Promise]
+[object Promise]
+[object Promise]
+[object Promise]
+[object Promise]
+Tweet: A clean slate is priceless
+Tweeted at: Mon Aug 03 01:18:36 +0000 2015
+
+Tweet: RT @timzilla92: My nerd little brother is graduating w/ honors today, did I mention, he has a gig lined up! #engineer #nerd @BDunams http:/…
+Tweeted at: Sat May 09 12:27:49 +0000 2015
+
+Tweet: If only I had met you under different circumstances.
+Tweeted at: Fri Apr 03 15:00:52 +0000 2015
+
+Tweet: Loyalty over all else
+Tweeted at: Wed Mar 25 17:14:16 +0000 2015
+
+Tweet: Find the joy you had in the beginning, and hold onto it.
+Tweeted at: Sat Mar 21 04:04:37 +0000 2015
+
+Tweet: RT @Ricky_o22: You've got that kind of look in your eyes as if no one, knows anything but us
+Tweeted at: Thu Mar 05 22:30:04 +0000 2015
+
+Tweet: It would be really nice if you could realize all the things you could've done before it was too late to do them.
+Tweeted at: Mon Feb 23 20:50:21 +0000 2015
+
+Tweet: Success is well worth the stress
+Tweeted at: Sun Feb 15 20:33:50 +0000 2015
+
+Tweet: @Ricky_o22 its actually nice sometimes Lol
+Tweeted at: Thu Feb 12 19:05:02 +0000 2015
+
+Tweet: You ever stop and think, maybe the grass isn't greener over there? Maybe that's crab grass!
+Tweeted at: Wed Feb 11 03:54:41 +0000 2015
+
+Tweet: You were so enticed by something superficial, you left something that was really real.
+Tweeted at: Wed Feb 04 14:48:40 +0000 2015
+
+Tweet: It's different when you've been at the bottom. You have a higher level of determination to never go back.
+Tweeted at: Wed Jan 28 20:55:39 +0000 2015
+
+Tweet: When it's convenient for you, we're friends
+Tweeted at: Thu Jan 22 20:51:01 +0000 2015
+
+Tweet: It's not significant when someone likes you after they've liked all your friends. Take that ish with a grain of salt
+Tweeted at: Tue Jan 06 18:00:07 +0000 2015
+
+Tweet: If I see one more Chipotle post on IG y'all killing me
+Tweeted at: Fri Nov 21 19:23:14 +0000 2014
+
+Tweet: Don't talk about it just do it. Nothing speaks like results
+Tweeted at: Thu Nov 13 16:16:58 +0000 2014
+
+Tweet: I love driving at night
+Tweeted at: Tue Nov 04 01:04:46 +0000 2014
+
+Tweet: @YoungZell_ probably dirty nigga
+Tweeted at: Sat Nov 01 20:18:19 +0000 2014
+
+Tweet: You're nothing like you used to be
+Tweeted at: Mon Oct 13 14:10:11 +0000 2014
+
+Tweet: @PeepTha_Sneaks haha I'll probably be in class foreal
+Tweeted at: Mon Sep 29 19:38:55 +0000 2014
+
+
+[object Object]
+[object Promise]
+Title: Alien
+Year: 1979
+Rating: 8.5/10
+Made in: UK, USA
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious life-form, and they soon realize that its life cycle has merely begun.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+More Info: http://www.foxmovies.com/index1.html
+Language: English
+Title: Alien
+Year: 1979
+Rating: 8.5/10
+Made in: UK, USA
+Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious life-form, and they soon realize that its life cycle has merely begun.
+Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+More Info: http://www.foxmovies.com/index1.html
+Language: English

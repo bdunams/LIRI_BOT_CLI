@@ -1,8 +1,67 @@
-[object Promise]
-[object Promise]
-[object Promise]
-[object Promise]
-[object Promise]
+﻿Top 3 Spotify Results:
+
+Artists: Kendrick Lamar
+Song: LOVE. FEAT. ZACARI.
+Preview: https://api.spotify.com/v1/tracks/6PGoSes0D9eUDeeAafB2As
+Album: DAMN.
+
+
+Artists: Drake
+Song: Fake Love
+Preview: https://api.spotify.com/v1/tracks/343YBumqHu19cGoGARUTsd
+Album: More Life
+
+
+Artists: SZA
+Song: Love Galore
+Preview: https://api.spotify.com/v1/tracks/1E2ePlJmijVSX0o1G9TFgR
+Album: Love Galore
+
+
+Title: Alien: Covenant
+Year: 2017
+Rating: 6.8/10
+Made in: UK, Australia, New Zealand, Canada, USA
+Plot: The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.
+Actors: Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride
+More Info: http://www.foxmovies.com/movies/alien-covenant
+Language: English
+Top 3 Spotify Results:
+
+Artists: Backstreet Boys
+Song: I Want It That Way
+Preview: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+
+
+Artists: Backstreet Boys
+Song: I Want It That Way
+Preview: https://api.spotify.com/v1/tracks/68y6OIiE1nDdI1MLQdJNh8
+Album: The Essential Backstreet Boys
+
+
+Artists: Backstreet Boys
+Song: I Want It That Way
+Preview: https://api.spotify.com/v1/tracks/47BBI51FKFwOMlIiX6m8ya
+Album: Millennium
+
+
+Title: Alien: Covenant
+Year: 2017
+Rating: 6.8/10
+Made in: UK, Australia, New Zealand, Canada, USA
+Plot: The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.
+Actors: Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride
+More Info: http://www.foxmovies.com/movies/alien-covenant
+Language: English
+Title: Bee Movie
+Year: 2007
+Rating: 6.1/10
+Made in: USA, Australia
+Plot: Barry B. Benson, a bee just graduated from college, is disillusioned at his lone career choice: making honey. On a special trip outside the hive, Barry's life is saved by Vanessa, a florist in New York City. As their relationship blossoms, he discovers humans actually eat honey, and subsequently decides to sue them.
+Actors: Jerry Seinfeld, Renée Zellweger, Matthew Broderick, Patrick Warburton
+More Info: http://www.BeeMovie.com/
+Language: English
 Tweet: A clean slate is priceless
 Tweeted at: Mon Aug 03 01:18:36 +0000 2015
 
@@ -64,21 +123,3 @@ Tweet: @PeepTha_Sneaks haha I'll probably be in class foreal
 Tweeted at: Mon Sep 29 19:38:55 +0000 2014
 
 
-[object Object]
-[object Promise]
-Title: Alien
-Year: 1979
-Rating: 8.5/10
-Made in: UK, USA
-Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious life-form, and they soon realize that its life cycle has merely begun.
-Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
-More Info: http://www.foxmovies.com/index1.html
-Language: English
-Title: Alien
-Year: 1979
-Rating: 8.5/10
-Made in: UK, USA
-Plot: After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious life-form, and they soon realize that its life cycle has merely begun.
-Actors: Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
-More Info: http://www.foxmovies.com/index1.html
-Language: English

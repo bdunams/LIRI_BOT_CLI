@@ -1,9 +1,10 @@
+// Twitter API
 const twitter = require('./twitter_api');
-
+// Spotify API
 const spotify = require('./spotify_api');
-
+// OMDB API
 const omdb = require('./omdb_api');
-
+// File System
 const fs = require('fs');
 
 
@@ -21,9 +22,10 @@ if(command === 'do-what-it-says'){
 
 function asyncLogResult(result){
   if(result){
+    // log query results in cli
     console.log(result);
     // append result data to a file for later usage
-    fs.appendFile("log.txt" ,result + '\n', (err) => {
+    fs.appendFile("log.txt" ,result + '\n','utf8', (err) => {
       if(err){
         // do something handle error
         throw err;
@@ -35,20 +37,20 @@ function asyncLogResult(result){
 // all the options available to the user
 switch(command){
   case 'my-tweets':
-    // process promise from Async API response data
+    // process promise from Async Twitter API response data
     twitter().then((tweetContent) => {
       asyncLogResult(tweetContent);
     });
   break;
   case 'spotify-this-song':
-    // process promise from Async API response data
+    // process promise from Async Spotify API response data
     spotify(query).then((songContent) => {
-      asyncLogResult(songContent)
+      asyncLogResult(songContent);
     });
   break;
   case 'movie-this':
-    // process promise from Async API response data
-    result = omdb(query).then((movieContent) => {
+    // process promise from Async OMDB API response data
+    omdb(query).then((movieContent) => {
       asyncLogResult(movieContent);
     });
   break;
